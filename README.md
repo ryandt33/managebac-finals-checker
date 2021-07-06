@@ -9,7 +9,8 @@ This is a very simple program that allows you to check the completion of finals 
 1. Clone into this repo
 
 2. Install the necessary dependencies with:
-   npm i
+
+   > npm i
 
 3. Copy default_settings.json to default.json
 
@@ -18,7 +19,8 @@ This is a very simple program that allows you to check the completion of finals 
 ## Usage
 
 Navigate to the root directory and run:
-node index.js
+
+> node index.js
 
 Follow the prompts to select the correct reporting term.
 
