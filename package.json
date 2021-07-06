@@ -1,0 +1,17 @@
+{
+  "name": "finalscheck",
+  "version": "1.0.0",
+  "description": "Call the MB API to check all finals within a given term",
+  "main": "finals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Tannenbaum",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "config": "^3.3.6",
+    "prompt-sync": "^4.2.0"
+  }
+}
